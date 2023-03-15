@@ -6,3 +6,5 @@
       docker_image:
         name: sm0223/calculator-junit-devops
         source: pull
+    - name: Run container
+      shell : docker run -it -d sm0223/calculator-junit-devops
