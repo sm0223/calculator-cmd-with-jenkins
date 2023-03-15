@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="CalculatorTest" time="0.004" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="CalculatorTest" time="0.494" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.18+10-post-Ubuntu-0ubuntu122.04"/>
@@ -60,13 +60,13 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="CalculatorTest" name="multiplyFalsePositive" time="0.003"/>
+  <testcase classname="CalculatorTest" name="multiplyFalsePositive" time="0.492"/>
   <testcase classname="CalculatorTest" name="divideWithZeroTruePositive" time="0"/>
   <testcase classname="CalculatorTest" name="subtractTruePositive" time="0"/>
   <testcase classname="CalculatorTest" name="sumFalsePositive" time="0"/>
-  <testcase classname="CalculatorTest" name="multiplyTruePositive" time="0"/>
+  <testcase classname="CalculatorTest" name="multiplyTruePositive" time="0.001"/>
   <testcase classname="CalculatorTest" name="subtractFalsePositive" time="0"/>
   <testcase classname="CalculatorTest" name="divideTruePositive" time="0"/>
-  <testcase classname="CalculatorTest" name="divideFalsePositive" time="0"/>
-  <testcase classname="CalculatorTest" name="sumTruePositive" time="0.001"/>
+  <testcase classname="CalculatorTest" name="divideFalsePositive" time="0.001"/>
+  <testcase classname="CalculatorTest" name="sumTruePositive" time="0"/>
 </testsuite>
