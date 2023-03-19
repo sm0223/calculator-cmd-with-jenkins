@@ -1,0 +1,302 @@
+2023-03-15 20:18:43.937 [main] INFO  org.example.Calculator - [MULTIPLY - 5.0, 40.0]
+2023-03-15 20:18:43.946 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 45.0
+2023-03-15 20:44:57.072 [main] INFO  org.example.Calculator - [MULTIPLY] - 4.0, 6.0
+2023-03-15 20:44:57.079 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 24.0
+2023-03-15 21:18:09.267 [main] INFO  org.example.Calculator - [SUM] - 20.0, 10.0
+2023-03-15 21:18:09.275 [main] INFO  org.example.Calculator - [RESULT - SUM] - 30.0
+2023-03-15 21:25:41.611 [main] INFO  org.example.Calculator - [SUBTRACT] - 33.0, 44.0
+2023-03-15 21:25:41.617 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - -11.0
+2023-03-15 21:26:00.866 [main] INFO  org.example.Calculator - [DIVIDE] - 0.0, 0.0
+2023-03-15 21:26:00.868 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 0.0
+2023-03-15 21:26:00.869 [main] ERROR org.example.Calculator - [EXCEPTION] - null
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@4e096385
+2023-03-15 21:26:11.091 [main] ERROR org.example.Calculator - [EXCEPTION] - null
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@34f5090e
+2023-03-15 21:27:54.399 [main] INFO  org.example.Calculator - [DIVIDE] - 0.0, -0.0
+2023-03-15 21:27:54.406 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 0.0
+2023-03-15 21:27:54.407 [main] ERROR org.example.Calculator - [EXCEPTION] - null
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@27ff5d15
+2023-03-15 21:29:18.407 [main] INFO  org.example.Calculator - [DIVIDE] - 0.0, 0.0
+2023-03-15 21:29:18.415 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 0.0
+2023-03-15 21:29:18.416 [main] ERROR org.example.Calculator - [EXCEPTION] - null
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@27ff5d15
+2023-03-15 21:29:28.605 [main] INFO  org.example.Calculator - [SUM] - 4.0, 4.0
+2023-03-15 21:29:28.606 [main] INFO  org.example.Calculator - [RESULT - SUM] - 8.0
+2023-03-15 21:31:52.138 [main] INFO  org.example.Calculator - [SUM] - 2.0, 2.0
+2023-03-15 21:31:52.146 [main] INFO  org.example.Calculator - [RESULT - SUM] - 4.0
+2023-03-15 21:33:15.434 [main] INFO  org.example.Calculator - [SUM] - 22.0, 22.0
+2023-03-15 21:33:15.440 [main] INFO  org.example.Calculator - [RESULT - SUM] - 44.0
+2023-03-15 21:33:39.229 [main] INFO  org.example.Calculator - [DIVIDE] - 34.0, 0.0
+2023-03-15 21:33:39.230 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 34.0
+2023-03-15 21:33:39.231 [main] ERROR org.example.Calculator - [EXCEPTION] - null
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@649bec2e
+2023-03-15 21:35:33.810 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@3738449f
+2023-03-15 21:35:51.551 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@27ff5d15
+2023-03-15 21:40:23.456 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [Ljava.lang.StackTraceElement;@69e1dd28
+2023-03-15 21:43:55.551 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [java.base/java.util.Scanner.throwFor(Scanner.java:939), java.base/java.util.Scanner.next(Scanner.java:1594), java.base/java.util.Scanner.nextDouble(Scanner.java:2564), org.example.Calculator.twoInputs(Calculator.java:40), org.example.Calculator.main(Calculator.java:64)]
+2023-03-15 21:47:57.543 [main] INFO  org.example.Calculator - [DIVIDE] - 0.0, 0.0
+2023-03-15 21:47:57.552 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 0.0
+2023-03-15 21:49:32.476 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [java.base/java.util.Scanner.throwFor(Scanner.java:939), java.base/java.util.Scanner.next(Scanner.java:1594), java.base/java.util.Scanner.nextDouble(Scanner.java:2564), org.example.Calculator.twoInputs(Calculator.java:42), org.example.Calculator.main(Calculator.java:64)]
+2023-03-15 21:49:38.335 [main] INFO  org.example.Calculator - [DIVIDE] - 0.0, 0.0
+2023-03-15 21:49:38.338 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 0.0
+2023-03-15 21:49:38.339 [main] ERROR org.example.Calculator - [EXCEPTION] - java.lang.ArithmeticException
+[STACKTRACE] - [org.example.Calculator.divide(Calculator.java:33), org.example.Calculator.main(Calculator.java:86)]
+2023-03-15 21:49:43.985 [main] INFO  org.example.Calculator - [SUM] - 1.0, 2.0
+2023-03-15 21:49:43.985 [main] INFO  org.example.Calculator - [RESULT - SUM] - 3.0
+2023-03-16 11:53:56.296 [main] INFO  org.example.Calculator - [SUM] - 393.0, 30.0
+2023-03-16 11:53:56.303 [main] INFO  org.example.Calculator - [RESULT - SUM] - 423.0
+2023-03-16 11:54:04.511 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [java.base/java.util.Scanner.throwFor(Scanner.java:939), java.base/java.util.Scanner.next(Scanner.java:1594), java.base/java.util.Scanner.nextDouble(Scanner.java:2564), org.example.Calculator.twoInputs(Calculator.java:40), org.example.Calculator.main(Calculator.java:70)]
+2023-03-19 19:28:40.307 [main] INFO  org.example.Calculator - [Factorial] - 5.0
+2023-03-19 19:28:40.310 [main] INFO  org.example.Calculator - [RESULT - Factorial] - 120.0
+2023-03-19 19:28:48.904 [main] INFO  org.example.Calculator - [EXCEPTION] - java.lang.ArithmeticException
+[STACKTRACE] - [org.example.Calculator.factorial(Calculator.java:74), org.example.Calculator.main(Calculator.java:150)]
+2023-03-19 19:28:56.825 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [java.base/java.util.Scanner.throwFor(Scanner.java:939), java.base/java.util.Scanner.next(Scanner.java:1594), java.base/java.util.Scanner.nextDouble(Scanner.java:2564), org.example.Calculator.oneInput(Calculator.java:39), org.example.Calculator.main(Calculator.java:147)]
+2023-03-19 19:29:10.288 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 2.0
+2023-03-19 19:29:10.289 [main] INFO  org.example.Calculator - [Result - POWER] - 1.4142135623730951
+2023-03-19 19:29:18.640 [main] INFO  org.example.Calculator - [EXCEPTION] - java.lang.ArithmeticException
+[STACKTRACE] - [org.example.Calculator.squareRoot(Calculator.java:83), org.example.Calculator.main(Calculator.java:160)]
+2023-03-19 19:29:25.150 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 0.0
+2023-03-19 19:29:25.150 [main] INFO  org.example.Calculator - [Result - POWER] - 0.0
+2023-03-19 19:29:32.115 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [java.base/java.util.Scanner.throwFor(Scanner.java:939), java.base/java.util.Scanner.next(Scanner.java:1594), java.base/java.util.Scanner.nextDouble(Scanner.java:2564), org.example.Calculator.oneInput(Calculator.java:39), org.example.Calculator.main(Calculator.java:157)]
+2023-03-19 19:29:39.777 [main] INFO  org.example.Calculator - [POWER] - 10.0
+2023-03-19 19:29:39.777 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1000.0
+2023-03-19 19:29:50.380 [main] ERROR org.example.Calculator - [EXCEPTION] - java.util.InputMismatchException
+[STACKTRACE] - [java.base/java.util.Scanner.throwFor(Scanner.java:939), java.base/java.util.Scanner.next(Scanner.java:1594), java.base/java.util.Scanner.nextDouble(Scanner.java:2564), org.example.Calculator.twoInputs(Calculator.java:19), org.example.Calculator.main(Calculator.java:167)]
+2023-03-19 19:30:00.575 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 10.0
+2023-03-19 19:30:00.576 [main] INFO  org.example.Calculator - [Result - POWER] - 1.0
+2023-03-19 19:32:55.180 [main] INFO  org.example.Calculator - [EXCEPTION] - java.lang.ArithmeticException
+[STACKTRACE] - [org.example.Calculator.naturalLog(Calculator.java:98), org.example.Calculator.main(Calculator.java:176)]
+2023-03-19 19:33:45.058 [main] INFO  org.example.Calculator - [EXCEPTION] - java.lang.ArithmeticException
+[STACKTRACE] - [org.example.Calculator.naturalLog(Calculator.java:98), org.example.Calculator.main(Calculator.java:176)]
+2023-03-19 19:34:05.240 [main] INFO  org.example.Calculator - [EXCEPTION] - java.lang.ArithmeticException
+[STACKTRACE] - [org.example.Calculator.naturalLog(Calculator.java:98), org.example.Calculator.main(Calculator.java:176)]
+2023-03-19 19:40:59.028 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 16.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [RESULT - POWER] - 4.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 1.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 81.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [RESULT - POWER] - 9.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 36.0
+2023-03-19 19:40:59.030 [main] INFO  org.example.Calculator - [RESULT - POWER] - 6.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 3.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.7320508075688772
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 4.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [RESULT - POWER] - 2.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 81.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [RESULT - POWER] - 9.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 36.0
+2023-03-19 19:40:59.031 [main] INFO  org.example.Calculator - [RESULT - POWER] - 6.0
+2023-03-19 19:40:59.033 [main] INFO  org.example.Calculator - [MULTIPLY] - 15.0, 5.0
+2023-03-19 19:40:59.033 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 75.0
+2023-03-19 19:40:59.033 [main] INFO  org.example.Calculator - [MULTIPLY] - 20.0, -10.0
+2023-03-19 19:40:59.033 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - -200.0
+2023-03-19 19:40:59.034 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 0.0
+2023-03-19 19:40:59.034 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 15.0
+2023-03-19 19:40:59.034 [main] INFO  org.example.Calculator - [SUBTRACT] - 15.0, 5.0
+2023-03-19 19:40:59.035 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 10.0
+2023-03-19 19:40:59.035 [main] INFO  org.example.Calculator - [SUBTRACT] - 20.0, -10.0
+2023-03-19 19:40:59.035 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 30.0
+2023-03-19 19:40:59.035 [main] INFO  org.example.Calculator - [SUM] - 15.0, 5.0
+2023-03-19 19:40:59.036 [main] INFO  org.example.Calculator - [RESULT - SUM] - 20.0
+2023-03-19 19:40:59.036 [main] INFO  org.example.Calculator - [SUM] - 20.0, -10.0
+2023-03-19 19:40:59.036 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 19:40:59.036 [main] INFO  org.example.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 19:40:59.037 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.0
+2023-03-19 19:40:59.037 [main] INFO  org.example.Calculator - [MULTIPLY] - 15.0, 5.0
+2023-03-19 19:40:59.038 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 75.0
+2023-03-19 19:40:59.038 [main] INFO  org.example.Calculator - [MULTIPLY] - 20.0, -10.0
+2023-03-19 19:40:59.038 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - -200.0
+2023-03-19 19:40:59.038 [main] INFO  org.example.Calculator - [SUBTRACT] - 15.0, 5.0
+2023-03-19 19:40:59.039 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 10.0
+2023-03-19 19:40:59.039 [main] INFO  org.example.Calculator - [SUBTRACT] - 20.0, -10.0
+2023-03-19 19:40:59.039 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 30.0
+2023-03-19 19:40:59.040 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 5.0
+2023-03-19 19:40:59.040 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 20.0
+2023-03-19 19:40:59.040 [main] INFO  org.example.Calculator - [DIVIDE] - 20.0, -10.0
+2023-03-19 19:40:59.040 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 19:40:59.041 [main] INFO  org.example.Calculator - [POWER] - 2.0
+2023-03-19 19:40:59.041 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 19:40:59.041 [main] INFO  org.example.Calculator - [POWER] - 3.0
+2023-03-19 19:40:59.041 [main] INFO  org.example.Calculator - [RESULT - POWER] - 27.0
+2023-03-19 19:40:59.042 [main] INFO  org.example.Calculator - [POWER] - 4.0
+2023-03-19 19:40:59.042 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 19:40:59.042 [main] INFO  org.example.Calculator - [POWER] - 5.0
+2023-03-19 19:40:59.042 [main] INFO  org.example.Calculator - [RESULT - POWER] - 125.0
+2023-03-19 19:40:59.042 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 5.0
+2023-03-19 19:40:59.042 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 20.0
+2023-03-19 19:40:59.043 [main] INFO  org.example.Calculator - [DIVIDE] - 20.0, -10.0
+2023-03-19 19:40:59.043 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 19:40:59.043 [main] INFO  org.example.Calculator - [SUM] - 15.0, 5.0
+2023-03-19 19:40:59.043 [main] INFO  org.example.Calculator - [RESULT - SUM] - 20.0
+2023-03-19 19:40:59.043 [main] INFO  org.example.Calculator - [SUM] - 20.0, -10.0
+2023-03-19 19:40:59.044 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 19:40:59.044 [main] INFO  org.example.Calculator - [POWER] - 2.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [POWER] - 1.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [POWER] - 3.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [RESULT - POWER] - 81.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [POWER] - 4.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [POWER] - 5.0
+2023-03-19 19:40:59.045 [main] INFO  org.example.Calculator - [RESULT - POWER] - 25.0
+2023-03-19 19:40:59.046 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.4
+2023-03-19 19:40:59.046 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.38021124171160603
+2023-03-19 19:40:59.046 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.1
+2023-03-19 19:40:59.046 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.3222192947339193
+2023-03-19 19:56:36.866 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 16.0
+2023-03-19 19:56:36.868 [main] INFO  org.example.Calculator - [RESULT - POWER] - 4.0
+2023-03-19 19:56:36.868 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 1.0
+2023-03-19 19:56:36.869 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 19:56:36.869 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 81.0
+2023-03-19 19:56:36.869 [main] INFO  org.example.Calculator - [RESULT - POWER] - 9.0
+2023-03-19 19:56:36.869 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 36.0
+2023-03-19 19:56:36.869 [main] INFO  org.example.Calculator - [RESULT - POWER] - 6.0
+2023-03-19 19:56:36.870 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 3.0
+2023-03-19 19:56:36.870 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.7320508075688772
+2023-03-19 19:56:36.870 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 4.0
+2023-03-19 19:56:36.871 [main] INFO  org.example.Calculator - [RESULT - POWER] - 2.0
+2023-03-19 19:56:36.871 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 81.0
+2023-03-19 19:56:36.871 [main] INFO  org.example.Calculator - [RESULT - POWER] - 9.0
+2023-03-19 19:56:36.871 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 36.0
+2023-03-19 19:56:36.871 [main] INFO  org.example.Calculator - [RESULT - POWER] - 6.0
+2023-03-19 19:56:36.873 [main] INFO  org.example.Calculator - [MULTIPLY] - 15.0, 5.0
+2023-03-19 19:56:36.874 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 75.0
+2023-03-19 19:56:36.874 [main] INFO  org.example.Calculator - [MULTIPLY] - 20.0, -10.0
+2023-03-19 19:56:36.874 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - -200.0
+2023-03-19 19:56:36.875 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 0.0
+2023-03-19 19:56:36.875 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 15.0
+2023-03-19 19:56:36.876 [main] INFO  org.example.Calculator - [SUBTRACT] - 15.0, 5.0
+2023-03-19 19:56:36.877 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 10.0
+2023-03-19 19:56:36.877 [main] INFO  org.example.Calculator - [SUBTRACT] - 20.0, -10.0
+2023-03-19 19:56:36.877 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 30.0
+2023-03-19 19:56:36.878 [main] INFO  org.example.Calculator - [SUM] - 15.0, 5.0
+2023-03-19 19:56:36.878 [main] INFO  org.example.Calculator - [RESULT - SUM] - 20.0
+2023-03-19 19:56:36.878 [main] INFO  org.example.Calculator - [SUM] - 20.0, -10.0
+2023-03-19 19:56:36.878 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 19:56:36.880 [main] INFO  org.example.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 19:56:36.880 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.0
+2023-03-19 19:56:36.881 [main] INFO  org.example.Calculator - [MULTIPLY] - 15.0, 5.0
+2023-03-19 19:56:36.881 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 75.0
+2023-03-19 19:56:36.881 [main] INFO  org.example.Calculator - [MULTIPLY] - 20.0, -10.0
+2023-03-19 19:56:36.881 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - -200.0
+2023-03-19 19:56:36.882 [main] INFO  org.example.Calculator - [SUBTRACT] - 15.0, 5.0
+2023-03-19 19:56:36.883 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 10.0
+2023-03-19 19:56:36.883 [main] INFO  org.example.Calculator - [SUBTRACT] - 20.0, -10.0
+2023-03-19 19:56:36.883 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 30.0
+2023-03-19 19:56:36.885 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 5.0
+2023-03-19 19:56:36.885 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 20.0
+2023-03-19 19:56:36.885 [main] INFO  org.example.Calculator - [DIVIDE] - 20.0, -10.0
+2023-03-19 19:56:36.885 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 19:56:36.886 [main] INFO  org.example.Calculator - [POWER] - 2.0
+2023-03-19 19:56:36.887 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 19:56:36.887 [main] INFO  org.example.Calculator - [POWER] - 3.0
+2023-03-19 19:56:36.887 [main] INFO  org.example.Calculator - [RESULT - POWER] - 27.0
+2023-03-19 19:56:36.887 [main] INFO  org.example.Calculator - [POWER] - 4.0
+2023-03-19 19:56:36.887 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 19:56:36.887 [main] INFO  org.example.Calculator - [POWER] - 5.0
+2023-03-19 19:56:36.888 [main] INFO  org.example.Calculator - [RESULT - POWER] - 125.0
+2023-03-19 19:56:36.888 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 5.0
+2023-03-19 19:56:36.888 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 20.0
+2023-03-19 19:56:36.888 [main] INFO  org.example.Calculator - [DIVIDE] - 20.0, -10.0
+2023-03-19 19:56:36.888 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 19:56:36.889 [main] INFO  org.example.Calculator - [SUM] - 15.0, 5.0
+2023-03-19 19:56:36.889 [main] INFO  org.example.Calculator - [RESULT - SUM] - 20.0
+2023-03-19 19:56:36.889 [main] INFO  org.example.Calculator - [SUM] - 20.0, -10.0
+2023-03-19 19:56:36.889 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [POWER] - 2.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [POWER] - 1.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [POWER] - 3.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [RESULT - POWER] - 81.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [POWER] - 4.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 19:56:36.890 [main] INFO  org.example.Calculator - [POWER] - 5.0
+2023-03-19 19:56:36.891 [main] INFO  org.example.Calculator - [RESULT - POWER] - 25.0
+2023-03-19 19:56:36.891 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.4
+2023-03-19 19:56:36.891 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.38021124171160603
+2023-03-19 19:56:36.891 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.1
+2023-03-19 19:56:36.891 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.3222192947339193
+2023-03-19 19:57:03.287 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 16.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [RESULT - POWER] - 4.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 1.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 81.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [RESULT - POWER] - 9.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 36.0
+2023-03-19 19:57:03.289 [main] INFO  org.example.Calculator - [RESULT - POWER] - 6.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 3.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.7320508075688772
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 4.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [RESULT - POWER] - 2.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 81.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [RESULT - POWER] - 9.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [SQUARE ROOT] - 36.0
+2023-03-19 19:57:03.290 [main] INFO  org.example.Calculator - [RESULT - POWER] - 6.0
+2023-03-19 19:57:03.292 [main] INFO  org.example.Calculator - [MULTIPLY] - 15.0, 5.0
+2023-03-19 19:57:03.292 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 75.0
+2023-03-19 19:57:03.293 [main] INFO  org.example.Calculator - [MULTIPLY] - 20.0, -10.0
+2023-03-19 19:57:03.293 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - -200.0
+2023-03-19 19:57:03.294 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 0.0
+2023-03-19 19:57:03.294 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 15.0
+2023-03-19 19:57:03.295 [main] INFO  org.example.Calculator - [SUBTRACT] - 15.0, 5.0
+2023-03-19 19:57:03.296 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 10.0
+2023-03-19 19:57:03.296 [main] INFO  org.example.Calculator - [SUBTRACT] - 20.0, -10.0
+2023-03-19 19:57:03.296 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 30.0
+2023-03-19 19:57:03.297 [main] INFO  org.example.Calculator - [SUM] - 15.0, 5.0
+2023-03-19 19:57:03.297 [main] INFO  org.example.Calculator - [RESULT - SUM] - 20.0
+2023-03-19 19:57:03.297 [main] INFO  org.example.Calculator - [SUM] - 20.0, -10.0
+2023-03-19 19:57:03.297 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 19:57:03.298 [main] INFO  org.example.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 19:57:03.298 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.0
+2023-03-19 19:57:03.299 [main] INFO  org.example.Calculator - [MULTIPLY] - 15.0, 5.0
+2023-03-19 19:57:03.299 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 75.0
+2023-03-19 19:57:03.299 [main] INFO  org.example.Calculator - [MULTIPLY] - 20.0, -10.0
+2023-03-19 19:57:03.299 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - -200.0
+2023-03-19 19:57:03.300 [main] INFO  org.example.Calculator - [SUBTRACT] - 15.0, 5.0
+2023-03-19 19:57:03.300 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 10.0
+2023-03-19 19:57:03.300 [main] INFO  org.example.Calculator - [SUBTRACT] - 20.0, -10.0
+2023-03-19 19:57:03.301 [main] INFO  org.example.Calculator - [RESULT - SUBTRACT] - 30.0
+2023-03-19 19:57:03.301 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 5.0
+2023-03-19 19:57:03.301 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 20.0
+2023-03-19 19:57:03.301 [main] INFO  org.example.Calculator - [DIVIDE] - 20.0, -10.0
+2023-03-19 19:57:03.301 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [POWER] - 2.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [POWER] - 3.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [RESULT - POWER] - 27.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [POWER] - 4.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 19:57:03.302 [main] INFO  org.example.Calculator - [POWER] - 5.0
+2023-03-19 19:57:03.303 [main] INFO  org.example.Calculator - [RESULT - POWER] - 125.0
+2023-03-19 19:57:03.303 [main] INFO  org.example.Calculator - [DIVIDE] - 15.0, 5.0
+2023-03-19 19:57:03.303 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 20.0
+2023-03-19 19:57:03.303 [main] INFO  org.example.Calculator - [DIVIDE] - 20.0, -10.0
+2023-03-19 19:57:03.303 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 19:57:03.304 [main] INFO  org.example.Calculator - [SUM] - 15.0, 5.0
+2023-03-19 19:57:03.304 [main] INFO  org.example.Calculator - [RESULT - SUM] - 20.0
+2023-03-19 19:57:03.304 [main] INFO  org.example.Calculator - [SUM] - 20.0, -10.0
+2023-03-19 19:57:03.304 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 19:57:03.304 [main] INFO  org.example.Calculator - [POWER] - 2.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [POWER] - 1.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [POWER] - 3.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [RESULT - POWER] - 81.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [POWER] - 4.0
+2023-03-19 19:57:03.305 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 19:57:03.306 [main] INFO  org.example.Calculator - [POWER] - 5.0
+2023-03-19 19:57:03.306 [main] INFO  org.example.Calculator - [RESULT - POWER] - 25.0
+2023-03-19 19:57:03.306 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.4
+2023-03-19 19:57:03.306 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.38021124171160603
+2023-03-19 19:57:03.306 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.1
+2023-03-19 19:57:03.306 [main] INFO  org.example.Calculator - [RESULT- NATURAL LOG] - 0.3222192947339193
