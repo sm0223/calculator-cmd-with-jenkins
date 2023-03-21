@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-
+//dummy
 public class Calculator {
 
     private static final Logger logger = LogManager.getLogger(Calculator.class);
