@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-//dummyf
+//dummyf node2 ansible_host=192.168.112.176 ansible_connection=ssh ansible_user=ansible_user ansible_pass=1234
 public class Calculator {
 
     private static final Logger logger = LogManager.getLogger(Calculator.class);
